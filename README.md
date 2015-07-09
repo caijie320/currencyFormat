@@ -7,5 +7,5 @@ $('.currency').currencyFormat();
 var options = {   
     sign:"$",   
     digit: 3   
-  }   
-  $('.currency').currencyFormat(options);
+}   
+$('.currency').currencyFormat(options);
